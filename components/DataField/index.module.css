@@ -1,0 +1,19 @@
+.DataField {
+  margin: 20px 0;
+}
+
+.DataField dt {
+  display: block;
+  text-align: right;
+  border-bottom: solid 1px gray;
+  padding-bottom: 4px;
+  text-transform: uppercase;
+  color: gray;
+  font-size: 12px;
+}
+
+.DataField dd {
+  margin-top: 4px;
+  white-space: pre-wrap;
+  overflow-x: scroll;
+}
